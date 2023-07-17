@@ -1,0 +1,15 @@
+body {
+  background-color: lightyellow;
+}
+
+#p1 {
+  color: orange;
+  padding: 40px;
+  text-align: center;
+}
+
+.links {
+	color: lightpink;
+	padding: 70px;
+	text-align: center;
+}
